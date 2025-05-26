@@ -75,6 +75,7 @@ width: 75%;
 height: 50px;
 box-sizing: border-box;
 text-align: center;
+border-style: double;
 }
 
 .tanggal p {
